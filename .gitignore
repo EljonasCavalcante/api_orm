@@ -2,3 +2,5 @@
 node_modules/
 # ignore file named 'README.txt'
 README.txt
+# ignore file of config.json
+config.json
