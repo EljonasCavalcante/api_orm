@@ -4,3 +4,5 @@ node_modules/
 README.txt
 # ignore file of config.json
 config.json
+# ignore
+READMECOD.txt
