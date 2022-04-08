@@ -5,7 +5,16 @@ module.exports = (sequelize, DataTypes) => {
     ativo: DataTypes.BOOLEAN,
     email: DataTypes.STRING,
     role: DataTypes.STRING
-  }, { paranoid: true });
+  }, { 
+    paranoid: true,
+    defaultScope: {
+        where: { ativo: true}
+    },
+    scopes: {
+      todos : { where: {} },
+      //etc: { constraint: valor}
+    }
+  });
   Pessoas.associate = function(models) {
     Pessoas.hasMany(models.Turmas, {
       foreignKey: 'docente_id'
