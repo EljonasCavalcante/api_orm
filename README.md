@@ -15,7 +15,7 @@ Aprimorei meus conhecimentos em JavaScript para back-end <br>
 - [MSN Web Docs](https://developer.mozilla.org/) 
 - [Database Mysql](https://dev.mysql.com/doc/)
 
-<img src="https://user-images.githubusercontent.com/85083611/160627874-f8fd4ade-3c82-400e-837a-0e4240094eaf.PNG" min-width="440" max-width="440" width="440" align="right" alt="badges languages">
+<img src="https://user-images.githubusercontent.com/85083611/160627874-f8fd4ade-3c82-400e-837a-0e4240094eaf.PNG" min-width="500" max-width="500" width="500" align="left" alt="badges languages">
 
-<img src="https://user-images.githubusercontent.com/85083611/160733494-191bec97-37b6-494a-bd34-b94158b47a1b.png" min-width="450" max-width="450" width="450" align="right" alt="badges languages">
+
 
