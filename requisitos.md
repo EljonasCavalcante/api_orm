@@ -1,6 +1,6 @@
-ok -Recebemos uma lista de funcionalidades que o cliente deseja implementar, agora que o CRUD básico foi feito e o sistema está funcionando.
+OK - Recebemos uma lista de funcionalidades que o cliente deseja implementar, agora que o CRUD básico foi feito e o sistema está funcionando.
 
-O cliente não gostaria que registros importantes do sistema, como as Pessoas, sejam apagados definitivamente do banco de dados.
+OK - O cliente não gostaria que registros importantes do sistema, como as Pessoas, sejam apagados definitivamente do banco de dados.
 
 Para deixar a interface mais limpa, o cliente gostaria que na lista de Pessoas, por padrão, fossem exibidos somente os usuários ativos.
 
