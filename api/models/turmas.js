@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 module.exports = (sequelize, DataTypes) => {
   const Turmas = sequelize.define('Turmas', {
     data_inicio: DataTypes.DATEONLY
-  }, { paranoid: true });
+  }, { paranoid: true })
   Turmas.associate = function(models) {
     Turmas.hasMany(models.Matriculas, {
       foreignKey: 'turma_id'
@@ -13,6 +13,6 @@ module.exports = (sequelize, DataTypes) => {
     Turmas.belongsTo(models.Niveis, {
       foreignKey: 'nivel_id'
     })
-  };
-  return Turmas;
-};
+  }
+  return Turmas
+}
